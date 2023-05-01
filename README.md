@@ -1,7 +1,8 @@
 
 # Text Editor
   ![Github License](https://img.shields.io/badge/license-MIT-green)
-  
+  ![Screenshot 2023-05-01 115640](https://user-images.githubusercontent.com/117605647/235482891-7aa9e999-d491-4bc6-b39d-f68b954fce94.png)
+
   Heroku LINK:https://obscure-wave-52921.herokuapp.com/
   
   ## Table of Contents
